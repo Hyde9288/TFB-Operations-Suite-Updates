@@ -1,0 +1,8 @@
+{
+  "schema_version": 10,
+  "version": "0.9.1-test",
+  "release_notes": "TFB Operations Suite 0.9.1 critical operations update: dashboard controls, project detail, plate/hanger inventory, selectable plate planner, production/delivery calendars, analytics history, priority and scheduling improvements.",
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.1-test/TFB_Operations_Suite_Update_0.9.1-test.zip",
+  "sha256": "4d1deae9eb4247e77fabba63494ca2f43030e458219a78c22f0dfe681fc99168",
+  "minimum_version": "0.9.0-test"
+}
