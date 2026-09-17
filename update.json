@@ -1,8 +1,8 @@
 {
-  "schema_version": 10,
-  "version": "0.9.1-test",
-  "release_notes": "TFB Operations Suite 0.9.1 critical operations update: dashboard controls, project detail, plate/hanger inventory, selectable plate planner, production/delivery calendars, analytics history, priority and scheduling improvements.",
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.1-test/TFB_Operations_Suite_Update_0.9.1-test.zip",
-  "sha256": "e8aba48619fb36f17b48eb0a32972e91965b4daf4fe9d3778e3c5d30a53aec08",
-  "minimum_version": "0.9.0-test"
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.2-test/TFB_Operations_Suite_Update_0.9.2-test.zip",
+  "release_notes": "TFB Operations Suite 0.9.2 production parity update: Sheets V5.12.8 Batch Status values, 10% Cut/Built controls, multi-day production activity, weekly production analytics dashboard with crew input and graphs, visible Plate Order Planner selections, and return-to-previous-screen project navigation.",
+  "sha256": "411b729cdde92c6dbc15d4e6448444e801d35e8c49bf8e3439b886d81ebba712",
+  "version": "0.9.2-test",
+  "schema_version": 11,
+  "minimum_version": "0.9.1-test"
 }
