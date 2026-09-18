@@ -1,8 +1,8 @@
 {
-  "sha256": "12d9299f5a4f03c77042176398e4a2d59ed588a7adff57e83465cb22f6150feb",
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.3-test/TFB_Operations_Suite_Update_0.9.3-test.zip",
-  "minimum_version": "0.9.2-test",
-  "schema_version": 13,
-  "release_notes": "TFB Operations Suite 0.9.3 dashboard and operations update: movable/resizable per-user dashboard widgets, corrected Dashboard columns and completion dates, automatic incremental production activity from Cut/Built progress changes, visual Production and Delivery calendars, and whole-project versus split Batch Group delivery labels.",
-  "version": "0.9.3-test"
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.3.1-test/TFB_Operations_Suite_Update_0.9.3.1-test.zip",
+  "version": "0.9.3.1-test",
+  "minimum_version": "0.9.3-test",
+  "release_notes": "TFB Operations Suite 0.9.3.1 V5.12.8 parity update: Batch-level plate demand and reservations, Plates by Job/Batch, planner fixes, project index cleanup, editable overall status, dashboard snapping and production sequencing, analytics widgets and visuals, and calendar refinements.",
+  "schema_version": 14,
+  "sha256": "2ac5b377a04ab76c6f297b078fd8401a210fd1dfae52232396789e2f8b0a5147"
 }
