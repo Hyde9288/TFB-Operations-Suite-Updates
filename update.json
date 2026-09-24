@@ -1,8 +1,8 @@
 {
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.8.9-test/TFB_Operations_Suite_Update_0.9.8.9-test.zip",
-  "release_notes": "TFB Operations Suite 0.9.8.9 test: adds protected creation of Windows-only projects in the Google Project Database and verifies the final synchronized baseline. Windows operational fields remain protected.",
-  "schema_version": 18,
-  "sha256": "d8bf265b0355354a34153d208efc53ef0385463765fd084546fc1b4133ce9424",
-  "version": "0.9.8.9-test",
-  "minimum_version": "0.9.5-test"
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.9.0-test/TFB_Operations_Suite_Update_0.9.9.0-test.zip",
+  "minimum_version": "0.9.5-test",
+  "schema_version": 19,
+  "sha256": "7899a8538fad1f33d27057513a7d6b263ed536e470f7f73b622796b52ec10fdb",
+  "release_notes": "TFB Operations Suite 0.9.9.0 test: begins normal Project Database synchronization with automatic Material List upload, pending retry, revision-aware pull, and protected Windows operational fields.",
+  "version": "0.9.9.0-test"
 }
