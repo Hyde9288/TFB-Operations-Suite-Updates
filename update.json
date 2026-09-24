@@ -1,8 +1,8 @@
 {
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.9.0-test/TFB_Operations_Suite_Update_0.9.9.0-test.zip",
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.9.1-test/TFB_Operations_Suite_Update_0.9.9.1-test.zip",
+  "version": "0.9.9.1-test",
+  "sha256": "d284ff367a0aa2a44723b5cd2e7c0f7e881af88030630be65c7787696c18d851",
+  "release_notes": "TFB Operations Suite 0.9.9.1 test: corrects Sync Now navigation so synchronization results remain visible on the Project Database Sync tab. Production synchronization and protected Windows operational fields are unchanged.",
   "minimum_version": "0.9.5-test",
-  "schema_version": 19,
-  "sha256": "7899a8538fad1f33d27057513a7d6b263ed536e470f7f73b622796b52ec10fdb",
-  "release_notes": "TFB Operations Suite 0.9.9.0 test: begins normal Project Database synchronization with automatic Material List upload, pending retry, revision-aware pull, and protected Windows operational fields.",
-  "version": "0.9.9.0-test"
+  "schema_version": 20
 }
