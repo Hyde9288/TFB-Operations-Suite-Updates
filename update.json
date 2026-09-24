@@ -1,8 +1,8 @@
 {
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.3.1-test/TFB_Operations_Suite_Update_0.9.3.1-test.zip",
-  "version": "0.9.3.1-test",
-  "minimum_version": "0.9.3-test",
-  "release_notes": "TFB Operations Suite 0.9.3.1 V5.12.8 parity update: Batch-level plate demand and reservations, Plates by Job/Batch, planner fixes, project index cleanup, editable overall status, dashboard snapping and production sequencing, analytics widgets and visuals, and calendar refinements.",
-  "schema_version": 14,
-  "sha256": "2ac5b377a04ab76c6f297b078fd8401a210fd1dfae52232396789e2f8b0a5147"
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.8.7-test/TFB_Operations_Suite_Update_0.9.8.7-test.zip",
+  "version": "0.9.8.7-test",
+  "minimum_version": "0.9.5-test",
+  "sha256": "33552eb3638e7c9148f21988e924e0354c3d11e94a4c31e01d686d24329258d7",
+  "release_notes": "TFB Operations Suite 0.9.8.7 test: adds Phase 2 initial cutover with full material comparison and explicit Windows-newer upload to Google. Windows operational fields remain protected.",
+  "schema_version": 16
 }
