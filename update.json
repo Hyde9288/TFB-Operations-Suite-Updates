@@ -1,8 +1,8 @@
 {
-  "minimum_version": "0.9.5-test",
-  "schema_version": 17,
-  "sha256": "f05ca55a1508f477a3f8c4229112731b5b7759bd433efdeaccf4d9167885f97c",
-  "version": "0.9.8.8-test",
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.8.8-test/TFB_Operations_Suite_Update_0.9.8.8-test.zip",
-  "release_notes": "TFB Operations Suite 0.9.8.8 test: corrects false post-cutover material differences by normalizing empty groups and duplicate material rows. Windows operational fields remain protected."
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.8.9-test/TFB_Operations_Suite_Update_0.9.8.9-test.zip",
+  "release_notes": "TFB Operations Suite 0.9.8.9 test: adds protected creation of Windows-only projects in the Google Project Database and verifies the final synchronized baseline. Windows operational fields remain protected.",
+  "schema_version": 18,
+  "sha256": "d8bf265b0355354a34153d208efc53ef0385463765fd084546fc1b4133ce9424",
+  "version": "0.9.8.9-test",
+  "minimum_version": "0.9.5-test"
 }
