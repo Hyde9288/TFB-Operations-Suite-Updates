@@ -1,8 +1,8 @@
 {
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.8.7-test/TFB_Operations_Suite_Update_0.9.8.7-test.zip",
-  "version": "0.9.8.7-test",
   "minimum_version": "0.9.5-test",
-  "sha256": "33552eb3638e7c9148f21988e924e0354c3d11e94a4c31e01d686d24329258d7",
-  "release_notes": "TFB Operations Suite 0.9.8.7 test: adds Phase 2 initial cutover with full material comparison and explicit Windows-newer upload to Google. Windows operational fields remain protected.",
-  "schema_version": 16
+  "schema_version": 17,
+  "sha256": "f05ca55a1508f477a3f8c4229112731b5b7759bd433efdeaccf4d9167885f97c",
+  "version": "0.9.8.8-test",
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.8.8-test/TFB_Operations_Suite_Update_0.9.8.8-test.zip",
+  "release_notes": "TFB Operations Suite 0.9.8.8 test: corrects false post-cutover material differences by normalizing empty groups and duplicate material rows. Windows operational fields remain protected."
 }
