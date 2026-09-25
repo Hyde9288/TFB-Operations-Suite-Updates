@@ -1,8 +1,8 @@
 {
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/v0.9.9.1-test/TFB_Operations_Suite_Update_0.9.9.1-test.zip",
-  "version": "0.9.9.1-test",
-  "sha256": "d284ff367a0aa2a44723b5cd2e7c0f7e881af88030630be65c7787696c18d851",
-  "release_notes": "TFB Operations Suite 0.9.9.1 test: corrects Sync Now navigation so synchronization results remain visible on the Project Database Sync tab. Production synchronization and protected Windows operational fields are unchanged.",
   "minimum_version": "0.9.5-test",
-  "schema_version": 20
+  "schema_version": 21,
+  "release_notes": "TFB Operations Suite 0.9.9.2-test: automatic Project Database synchronization, global user management and User Type permissions, active session visibility, and the Project Batch Build Table dropdown correction.",
+  "version": "0.9.9.2-test",
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.2-test/TFB_Operations_Suite_Update_0.9.9.2-test.zip",
+  "sha256": "93b5f3acea577adba2b5d4b06035da5aa3bb2960cbe26434304641872dc8d163"
 }
