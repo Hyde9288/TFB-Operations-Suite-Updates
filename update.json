@@ -1,8 +1,8 @@
 {
+  "sha256": "b560be04fdc4b9e749480cff4d01e83e469aab3e51abbffafb2933dce466e585",
   "minimum_version": "0.9.5-test",
-  "schema_version": 21,
-  "release_notes": "TFB Operations Suite 0.9.9.2-test: automatic Project Database synchronization, global user management and User Type permissions, active session visibility, and the Project Batch Build Table dropdown correction.",
-  "version": "0.9.9.2-test",
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.2-test/TFB_Operations_Suite_Update_0.9.9.2-test.zip",
-  "sha256": "93b5f3acea577adba2b5d4b06035da5aa3bb2960cbe26434304641872dc8d163"
+  "version": "0.9.9.3-test",
+  "schema_version": 22,
+  "release_notes": "TFB Operations Suite 0.9.9.3-test: PDF production reports, archived Plate/Hanger Orders, customizable report branding, project Financial/Notes updates, and startup user authentication with Initial Administrator setup.",
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.3-test/TFB_Operations_Suite_Update_0.9.9.3-test.zip"
 }
