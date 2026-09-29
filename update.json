@@ -1,8 +1,8 @@
 {
-  "sha256": "b560be04fdc4b9e749480cff4d01e83e469aab3e51abbffafb2933dce466e585",
+  "release_notes": "TFB Operations Suite 0.9.9.4-test: displays the signed-in user and User Type in the application header with Change User and Sign Out controls; preserves 0.9.9.3 functionality.",
+  "version": "0.9.9.4-test",
   "minimum_version": "0.9.5-test",
-  "version": "0.9.9.3-test",
-  "schema_version": 22,
-  "release_notes": "TFB Operations Suite 0.9.9.3-test: PDF production reports, archived Plate/Hanger Orders, customizable report branding, project Financial/Notes updates, and startup user authentication with Initial Administrator setup.",
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.3-test/TFB_Operations_Suite_Update_0.9.9.3-test.zip"
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.4-test/TFB_Operations_Suite_Update_0.9.9.4-test.zip",
+  "sha256": "d3e4c94c64cb2ad53e3ba091cb7d1affa7b06c07e24e707cab2cb2ee5f2277c7",
+  "schema_version": 22
 }
