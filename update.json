@@ -1,8 +1,8 @@
 {
   "schema_version": 22,
-  "release_notes": "TFB Operations Suite 0.9.9.5-test: fixes header Change User and Sign Out button visibility and displays the signed-in user and User Type in the application header with Change User and Sign Out controls; preserves 0.9.9.3 functionality.",
-  "version": "0.9.9.5-test",
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.5-test/TFB_Operations_Suite_Update_0.9.9.5-test.zip",
-  "sha256": "1bcf57b4bb23941e1757dc7670b8453422e482d632e7daaa8ac304b7046e3abe",
-  "minimum_version": "0.9.5-test"
+  "sha256": "a4846bace2b93b5121b988a2c793db1301ab2a3010f445cdced2628861e04189",
+  "release_notes": "TFB Operations Suite 0.9.9.6-test: adds Stay signed in, validates remembered sessions against the global user service, explicitly styles Change User and Sign Out buttons for reliable visibility, and automatically verifies the live updater feed after publishing.",
+  "minimum_version": "0.9.5-test",
+  "version": "0.9.9.6-test",
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.6-test/TFB_Operations_Suite_Update_0.9.9.6-test.zip"
 }
