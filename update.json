@@ -1,8 +1,8 @@
 {
-  "version": "0.9.9.9-test",
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.9-test/TFB_Operations_Suite_Update_0.9.9.9-test.zip",
-  "minimum_version": "0.9.5-test",
-  "release_notes": "TFB Operations Suite 0.9.9.9-test: authoritative exact-SKU Batch Group allocation ledger shared by Dashboard, Plate Inventory, and Plate Order Planner; Safety Buffer remains purchasing-only and is excluded from production shortage.",
   "schema_version": 22,
-  "sha256": "b0dbd291cde97cc25868a77e2d97c8aa15425610b2f340503d2dec1b44b4898c"
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.10-test/TFB_Operations_Suite_Update_0.9.9.10-test.zip",
+  "release_notes": "TFB Operations Suite 0.9.9.10-test: restores V5.12.8 Plate Order Planner purchasing math with pooled exact-size partial-box carryover while preserving split Batch Group production priority; Production Queue View now includes the live Plates/Hangers side panel.",
+  "sha256": "96cef7d3a5cfcd777e8b70ef84872fd30330b2245aae0a14cc3290145c260f8a",
+  "minimum_version": "0.9.5-test",
+  "version": "0.9.9.10-test"
 }
