@@ -1,8 +1,8 @@
 {
+  "release_notes": "TFB Operations Suite 0.9.9.8-test: adds Plate Order Planner Order View and Production Queue View, keeps selections synchronized by Batch Group, preserves queue-order plate reservations, and keeps Safety Buffer separate from shortages while including it in Boxes to Order.",
   "minimum_version": "0.9.5-test",
-  "release_notes": "TFB Operations Suite 0.9.9.7-test: fixes split-production plate reservations so inventory is allocated by Batch Group in global production queue order, and makes Administration Users & Permissions use the application global-user session without a second sign-in.",
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.7-test/TFB_Operations_Suite_Update_0.9.9.7-test.zip",
-  "sha256": "e0fcf7e46874ca907070c2ab4ade72b1b47e3372edcb0317d5f69f618f11666f",
+  "sha256": "1ac78f70be1688a9e1905a2881fee8493efd1dddee8f6bbccd3150520afb45aa",
   "schema_version": 22,
-  "version": "0.9.9.7-test"
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.8-test/TFB_Operations_Suite_Update_0.9.9.8-test.zip",
+  "version": "0.9.9.8-test"
 }
