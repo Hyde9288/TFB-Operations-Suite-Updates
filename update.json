@@ -1,8 +1,8 @@
 {
-  "schema_version": 22,
-  "sha256": "a4846bace2b93b5121b988a2c793db1301ab2a3010f445cdced2628861e04189",
-  "release_notes": "TFB Operations Suite 0.9.9.6-test: adds Stay signed in, validates remembered sessions against the global user service, explicitly styles Change User and Sign Out buttons for reliable visibility, and automatically verifies the live updater feed after publishing.",
   "minimum_version": "0.9.5-test",
-  "version": "0.9.9.6-test",
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.6-test/TFB_Operations_Suite_Update_0.9.9.6-test.zip"
+  "release_notes": "TFB Operations Suite 0.9.9.7-test: fixes split-production plate reservations so inventory is allocated by Batch Group in global production queue order, and makes Administration Users & Permissions use the application global-user session without a second sign-in.",
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.7-test/TFB_Operations_Suite_Update_0.9.9.7-test.zip",
+  "sha256": "e0fcf7e46874ca907070c2ab4ade72b1b47e3372edcb0317d5f69f618f11666f",
+  "schema_version": 22,
+  "version": "0.9.9.7-test"
 }
