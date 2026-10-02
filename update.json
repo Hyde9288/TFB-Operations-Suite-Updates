@@ -1,8 +1,8 @@
 {
-  "schema_version": 22,
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.12-test/TFB_Operations_Suite_Update_0.9.9.12-test.zip",
   "minimum_version": "0.9.5-test",
-  "version": "0.9.9.11-test",
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.11-test/TFB_Operations_Suite_Update_0.9.9.11-test.zip",
-  "release_notes": "TFB Operations Suite 0.9.9.11-test: fixes new-project Material List imports for CS Director project numbers with letter suffixes such as 2600539-mh; preserves V5.12.8 Plate Order Planner parity and the Production Queue Plates/Hangers side panel.",
-  "sha256": "01ff59c1ff149c829bc5149ebe4f5e8721ca390e6e510a5095bf216d94c04b01"
+  "schema_version": 22,
+  "release_notes": "TFB Operations Suite 0.9.9.12-test: corrects production shortage display, adds resizable Plate Size columns, persistent display controls, split-job color matching toggle, material refresh status feedback, and remembered-login support while preserving the new-project import fix.",
+  "sha256": "ef1e40412485c03625eb799e279456485ca314d28d2e7e445b78fa91c7d445c5",
+  "version": "0.9.9.12-test"
 }
