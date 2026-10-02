@@ -1,8 +1,8 @@
 {
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.12-test/TFB_Operations_Suite_Update_0.9.9.12-test.zip",
-  "minimum_version": "0.9.5-test",
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.13-test/TFB_Operations_Suite_Update_0.9.9.13-test.zip",
+  "version": "0.9.9.13-test",
+  "sha256": "ab3062f2eb87cd20ea21382f79494ce35917e47ae88d0badd98e3c2324f5a1db",
+  "release_notes": "TFB Operations Suite 0.9.9.13-test: adds split-job-only diverse color matching, globally resizable persistent table columns, and a persistent wider Plate Order Planner splitter/full-screen layout while preserving 0.9.9.12 behavior.",
   "schema_version": 22,
-  "release_notes": "TFB Operations Suite 0.9.9.12-test: corrects production shortage display, adds resizable Plate Size columns, persistent display controls, split-job color matching toggle, material refresh status feedback, and remembered-login support while preserving the new-project import fix.",
-  "sha256": "ef1e40412485c03625eb799e279456485ca314d28d2e7e445b78fa91c7d445c5",
-  "version": "0.9.9.12-test"
+  "minimum_version": "0.9.5-test"
 }
