@@ -1,8 +1,8 @@
 {
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.13-test/TFB_Operations_Suite_Update_0.9.9.13-test.zip",
-  "version": "0.9.9.13-test",
-  "sha256": "ab3062f2eb87cd20ea21382f79494ce35917e47ae88d0badd98e3c2324f5a1db",
-  "release_notes": "TFB Operations Suite 0.9.9.13-test: adds split-job-only diverse color matching, globally resizable persistent table columns, and a persistent wider Plate Order Planner splitter/full-screen layout while preserving 0.9.9.12 behavior.",
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.14-test/TFB_Operations_Suite_Update_0.9.9.14-test.zip",
+  "minimum_version": "0.9.5-test",
+  "sha256": "1d19152b196e6580b32d7c71fbecb13a6f1cf888cfcfd90faf3f94cba4cb6379",
+  "version": "0.9.9.14-test",
   "schema_version": 22,
-  "minimum_version": "0.9.5-test"
+  "release_notes": "TFB Operations Suite 0.9.9.14-test: fixes Plate Order Planner selected Batch Group shortages to use the same global production-priority plate allocation ledger as Dashboard Plate Status, preventing earlier reserved inventory from being reused by later selected batches."
 }
