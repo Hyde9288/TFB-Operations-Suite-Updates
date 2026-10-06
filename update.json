@@ -1,8 +1,8 @@
 {
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.14-test/TFB_Operations_Suite_Update_0.9.9.14-test.zip",
-  "minimum_version": "0.9.5-test",
-  "sha256": "1d19152b196e6580b32d7c71fbecb13a6f1cf888cfcfd90faf3f94cba4cb6379",
-  "version": "0.9.9.14-test",
+  "sha256": "0181b0e087955f69aef60500a66c06d5a9f702016de29d3d22f9117a257bd5e1",
   "schema_version": 22,
-  "release_notes": "TFB Operations Suite 0.9.9.14-test: fixes Plate Order Planner selected Batch Group shortages to use the same global production-priority plate allocation ledger as Dashboard Plate Status, preventing earlier reserved inventory from being reused by later selected batches."
+  "release_notes": "TFB Operations Suite 0.9.9.15-test: fixes Plate Order Planner purchasing recommendations so covered selected demand is not purchased a second time; purchasing starts from the authoritative production shortage and credits unallocated physical plates before waste, Safety Buffer, and On Order are converted to whole boxes.",
+  "minimum_version": "0.9.5-test",
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.15-test/TFB_Operations_Suite_Update_0.9.9.15-test.zip",
+  "version": "0.9.9.15-test"
 }
