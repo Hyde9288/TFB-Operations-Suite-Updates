@@ -1,8 +1,8 @@
 {
+  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.33-test/TFB_Operations_Suite_Update_0.9.9.33-test.zip",
   "release_notes": "TFB Operations Suite 0.9.9.16-test: fixes Plate Order Planner purchasing availability at the selected production horizon so future lower-priority jobs do not force false Safety Buffer and waste replenishment orders; production shortages remain sourced from the authoritative allocation ledger.",
-  "sha256": "38dd190e407ed647e322aa8fe705731a63f25c89d6121a85c61797418b6f2936",
-  "version": "0.9.9.31-test",
-  "schema_version": 22,
-  "package_url": "https://github.com/Hyde9288/TFB-Operations-Suite-Updates/releases/download/0.9.9.31-test/TFB_Operations_Suite_Update_0.9.9.31-test.zip",
-  "minimum_version": "0.9.5-test"
+  "minimum_version": "0.9.5-test",
+  "sha256": "ee2107c745fb864ab057a3c94edabf8d7f58204ae21a281624cd874c7b0a28c3",
+  "version": "0.9.9.33-test",
+  "schema_version": 22
 }
